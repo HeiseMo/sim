@@ -1,0 +1,326 @@
+Locomotion 
+
+Fins
+legs
+wings  
+gliding  
+slithering  
+crawling  
+burrowing  
+hopping  
+swimming  
+jet propulsion  
+sessile (non-mobile) 
+
+Respiration 
+
+Gills 
+lungs  
+spiracles (insects) 
+cutaneous respiration (skin)  
+tracheal system (insects)  
+book lungs (arachnids) 
+
+Nutrition 
+
+Herbivore
+carnivore  
+omnivore  
+filter feeder  
+detritivore 
+parasitic 
+symbiotic
+autotrophic (photosynthesis, chemosynthesis)
+frugivore
+nectarivore 
+
+Reproduction 
+
+Sexual (internal fertilization, external fertilization)  
+asexual (budding, fragmentation, parthenogenesis, fission) 
+oviparous (egg-laying)  
+viviparous (live birth)
+ovoviviparous (eggs develop inside the parent) 
+
+Sensory 
+
+Vision (compound eyes, simple eyes, binocular vision, nocturnal vision) 
+hearing, 
+olfaction (smell) 
+gustation (taste) 
+mechanoreception (touch, vibration, pressure)  
+electroreception  
+magnetoreception  
+thermoreception
+chemoreception (chemical sensing) 
+
+Defense 
+
+Camouflage (cryptic coloration, countershading, disruptive coloration)
+spines  
+toxins (venom, poison) 
+armor (exoskeleton, scales, shells)  
+mimicry (Batesian, Müllerian)  
+startle displays
+autotomy (shedding body parts) 
+ink secretion (cephalopods) 
+
+Thermoregulation 
+
+1. Ectothermy (cold-blooded) 
+
+2. Endothermy (warm-blooded) 
+
+3. Heterothermy (regional temperature variation) 
+
+4. Insulation (fur, feathers, blubber) 
+
+Excretion 
+
+Growth and development 
+
+1. Indeterminate growth (continuous growth throughout life) 
+
+2. Determinate growth (growth stops after reaching a certain size or age) 
+
+3. Metamorphosis (distinct developmental stages, e.g., egg, larva, pupa, adult) 
+
+4. Direct development (no metamorphosis, offspring resemble smaller versions of adults) 
+
+Immune system 
+
+1. Innate immunity (non-specific defense mechanisms) 
+
+2. Adaptive immunity (specific defense mechanisms) 
+
+3. Inflammation (response to infection or injury) 
+
+Neural system 
+
+1. Simple nerve net 
+
+2. Centralized nerve cord 
+
+3. Ganglia (localized nerve clusters) 
+
+4. Bilaterally symmetric brain 
+
+5. Cerebral cortex (higher cognitive functions) 
+
+6. Cerebellum (motor control) 
+
+7. Limbic system (emotions and memory) 
+
+8. Autonomic nervous system (involuntary functions) 
+
+9. Sensory processing (visual, auditory, tactile, olfactory, gustatory) 
+
+10. Neurotransmitters (serotonin, dopamine, acetylcholine, etc.) 
+
+Digestion 
+
+1. Intracellular digestion 
+
+2. Extracellular digestion (gastrovascular cavity) 
+
+3. Complete digestive system (mouth to anus) 
+
+4. Foregut fermentation (ruminants) 
+
+5. Hindgut fermentation (cecum) 
+
+6. Carnivorous digestive adaptations (short gut) 
+
+7. Herbivorous digestive adaptations (long gut) 
+
+8. Enzymatic digestion (amylase, protease, lipase, etc.) 
+
+9. Absorption and assimilation (villi, microvilli) 
+
+10. Digestive symbiosis (gut microbiota) 
+
+Structural support 
+
+1. Hydrostatic skeleton (fluid pressure) 
+
+2. Exoskeleton (chitin, calcium carbonate) 
+
+3. Endoskeleton (bone, cartilage) 
+
+4. Axial skeleton (vertebral column, skull) 
+
+5. Appendicular skeleton (limbs, pelvic and pectoral girdles) 
+
+6. Muscular system (smooth, skeletal, cardiac) 
+
+7. Tendons and ligaments 
+
+8. Joint types (hinge, ball-and-socket, pivot, etc.) 
+
+9. Musculoskeletal adaptations (flight, swimming, climbing, etc.) 
+
+Pigmentation 
+
+1. Melanin (brown, black, reddish-brown) 
+
+2. Carotenoids (red, orange, yellow) 
+
+3. Porphyrins (red, brown, green, blue) 
+
+4. Structural colors (iridescence, scattering, interference) 
+
+5. Chromatophores (color-changing cells) 
+
+6. Bioluminescence (light-producing) 
+
+7. Camouflage patterns (cryptic, disruptive, countershading) 
+
+8. Aposematism (warning coloration) 
+
+9. Sexual selection (differences between males and females) 
+
+10. Seasonal color changes (mammals, birds) 
+
+Communication 
+
+1. Visual signals (color, patterns, displays) 
+
+2. Acoustic signals (calls, songs) 
+
+3. Chemical signals (pheromones) 
+
+4. Tactile signals (touch, vibrations) 
+
+5. Electric signals (electric field generation and detection) 
+
+Social behavior 
+
+1. Solitary lifestyle 
+
+2. Pair bonding 
+
+3. Group living (fission-fusion, stable groups) 
+
+4. Hierarchy (dominant-subordinate relationships) 
+
+5. Cooperative behavior (hunting, defense, resource sharing) 
+
+6. Altruism (helping others at a cost to oneself) 
+
+Mating behavior 
+
+1. Monogamy (single mate) 
+
+2. Polygamy (multiple mates) 
+
+a. Polygyny (one male, multiple females) 
+
+b. Polyandry (one female, multiple males) 
+
+c. Polygynandry (multiple males and females) 
+
+3. Mate choice (female choice, male choice) 
+
+4. Sexual selection (ornaments, displays, competition) 
+
+5. Nuptial gifts (food or other resources provided to mates) 
+
+6. Mating rituals (courtship dances, displays) 
+
+Parental care 
+
+1. No parental care 
+
+2. Uniparental care (one parent provides care) 
+
+a. Maternal care (only the mother provides care) 
+
+b. Paternal care (only the father provides care) 
+
+3. Biparental care (both parents provide care) 
+
+4. Alloparental care (non-parent individuals provide care) 
+
+5. Nest building 
+
+6. Feeding offspring 
+
+7. Protection of offspring 
+
+Migration 
+
+1. No migration 
+
+2. Altitudinal migration (seasonal movement up and down mountains) 
+
+3. Latitudinal migration (seasonal movement towards the poles or equator) 
+
+4. Longitudinal migration (seasonal movement east or west) 
+
+5. Breeding migration (movement to specific breeding grounds) 
+
+6. Dispersal (movement from natal area to new area for breeding or resources) 
+
+Metabolism 
+
+Aerobic respiration 
+Anaerobic respiration 
+Fermentation 
+Glycolysis 
+Oxidative phosphorylation 
+Photosynthesis 
+Chemosynthesis 
+
+Energy storage 
+
+Fat storage 
+Glycogen storage 
+Protein storage 
+Carbohydrate storage
+ 
+Aging and lifespan
+
+Short lifespan 
+Intermediate lifespan 
+Long lifespan 
+Negligible senescence 
+Telomere maintenance 
+DNA repair mechanisms 
+
+Regeneration 
+
+Limited regeneration (wound healing) 
+Tissue regeneration 
+Organ regeneration 
+Limb regeneration 
+Whole-body regeneration 
+
+Symbiosis
+
+Mutualism 
+Commensalism 
+Parasitism 
+Endosymbiosis 
+Ectosymbiosis 
+Facultative symbiosis 
+Obligate symbiosis 
+
+Stress response 
+
+Heat-shock proteins 
+Cold-shock proteins 
+Osmotic stress response 
+Oxidative stress response 
+Hypoxia response 
+DNA damage response 
+
+Diapause (developmental arrest) 
+
+Egg diapause 
+Larval diapause 
+Pupal diapause 
+Adult diapause 
+Quiescence 
+Hibernation 
+
+ 

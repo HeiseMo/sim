@@ -169,7 +169,7 @@
   ],
   "Sensory": [
     {
-      "trait": "Vision (compound eyes, simple eyes, binocular vision, nocturnal vision)",
+      "trait": "Vision",
       "complexity": 5,
       "ohcStrand": "1A25084F821A25084F"
     },

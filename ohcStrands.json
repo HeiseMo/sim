@@ -1,0 +1,171 @@
+{
+  "length": {
+    "name": 30,
+    "value": "1106363650"
+  },
+  "width": {
+    "name": 10,
+    "value": "1131268514"
+  },
+  "height": {
+    "name": 5,
+    "value": "122102955"
+  },
+  "mass": {
+    "name": 800,
+    "value": "033441163412"
+  },
+  "lifespan": {
+    "name": 8,
+    "value": "9605468812"
+  },
+  "metabolicRate": {
+    "name": 50,
+    "value": "19640819122"
+  },
+  "reproductiveRate": {
+    "name": 100,
+    "value": "53248260244"
+  },
+  "gestationPeriod": {
+    "name": 2,
+    "value": "620492792"
+  },
+  "maturityAge": {
+    "name": 2,
+    "value": "429020242"
+  },
+  "vision": {
+    "name": 90,
+    "value": "81622735230"
+  },
+  "lateralLineSystem": {
+    "name": 80,
+    "value": "13260210212"
+  },
+  "smell": {
+    "name": 70,
+    "value": "10955265154"
+  },
+  "camouflage": {
+    "name": 75,
+    "value": "16358088203"
+  },
+  "toxins": {
+    "name": 50,
+    "value": "86779559122"
+  },
+  "spines": {
+    "name": 65,
+    "value": "89594356145"
+  },
+  "locomotion": {
+    "name": "Swimming",
+    "value": "88726877Swimming"
+  },
+  "respiration": {
+    "name": "Gills",
+    "value": "91584758Gills"
+  },
+  "nutrition": {
+    "name": "Filter feeder",
+    "value": "26565130Filter feeder"
+  },
+  "reproduction": {
+    "name": "Oviparous (egg-laying)",
+    "value": "18148814Oviparous (egg-laying)"
+  },
+  "sensory": {
+    "name": [
+      "Electroreception",
+      "Vision (simple eyes)"
+    ],
+    "value": "19803760Electroreception,Vision (simple eyes)"
+  },
+  "defense": {
+    "name": [
+      "Toxins (venom, poison)",
+      "Camouflage (cryptic coloration)"
+    ],
+    "value": "15449165Toxins (venom, poison),Camouflage (cryptic coloration)"
+  },
+  "thermoregulation": {
+    "name": "Ectothermy (cold-blooded)",
+    "value": "56616667Ectothermy (cold-blooded)"
+  },
+  "growthAndDevelopment": {
+    "name": "Metamorphosis (distinct developmental stages)",
+    "value": "17189162Metamorphosis (distinct developmental stages)"
+  },
+  "immuneSystem": {
+    "name": "Innate immunity (non-specific defense mechanisms)",
+    "value": "17763442Innate immunity (non-specific defense mechanisms)"
+  },
+  "neuralSystem": {
+    "name": "Centralized nerve cord",
+    "value": "91351858Centralized nerve cord"
+  },
+  "digestion": {
+    "name": "Complete digestive system (mouth to anus)",
+    "value": "21204204Complete digestive system (mouth to anus)"
+  },
+  "structuralSupport": {
+    "name": [
+      "Hydrostatic skeleton (fluid pressure)",
+      "Exoskeleton (chitin, calcium carbonate)"
+    ],
+    "value": "88017003Hydrostatic skeleton (fluid pressure),Exoskeleton (chitin, calcium carbonate)"
+  },
+  "pigmentation": {
+    "name": "Chromatophores (color-changing cells)",
+    "value": "15514333Chromatophores (color-changing cells)"
+  },
+  "communication": {
+    "name": "Acoustic signals (calls, songs)",
+    "value": "10352845Acoustic signals (calls, songs)"
+  },
+  "socialBehavior": {
+    "name": "Group living (stable groups)",
+    "value": "17373227Group living (stable groups)"
+  },
+  "matingBehavior": {
+    "name": "Polygyny (one male, multiple females)",
+    "value": "37545035Polygyny (one male, multiple females)"
+  },
+  "parentalCare": {
+    "name": "No parental care",
+    "value": "14554437No parental care"
+  },
+  "migration": {
+    "name": "Latitudinal migration (seasonal movement towards the poles or equator)",
+    "value": "85208581Latitudinal migration (seasonal movement towards the poles or equator)"
+  },
+  "metabolism": {
+    "name": "Aerobic respiration",
+    "value": "12931268Aerobic respiration"
+  },
+  "energyStorage": {
+    "name": "Fat storage",
+    "value": "15630830Fat storage"
+  },
+  "agingAndLifespan": {
+    "name": "Intermediate lifespan",
+    "value": "97718281Intermediate lifespan"
+  },
+  "regeneration": {
+    "name": "Limited regeneration (wound healing)",
+    "value": "10327704Limited regeneration (wound healing)"
+  },
+  "symbiosis": {
+    "name": "Mutualism",
+    "value": "41247939Mutualism"
+  },
+  "stressResponse": {
+    "name": "Heat-shock proteins",
+    "value": "56371691Heat-shock proteins"
+  },
+  "diapause": {
+    "name": "None",
+    "value": "23055181None"
+  }
+}

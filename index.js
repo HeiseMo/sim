@@ -7,7 +7,7 @@ class Animal {
         this.strength = options.strength;
         this.intelligence = options.intelligence;
         this.instinct = options.instinct;
-        this.otherTraits = options.otherTraits;
+        this.otherTraits = options.otherTraits; //Phys T, Mental T, Diet
         this.x = options.x;
         this.y = options.y;
       }

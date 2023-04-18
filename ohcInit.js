@@ -78,19 +78,13 @@ fs.readFile('traitDB.json', 'utf8', (err, data) => {
         return count;
       }
       
-      // Read the traitsDB.json file
       fs.readFile('traitDB.json', 'utf8', (err, data) => {
         if (err) {
           console.error('Error reading the traitsDB.json file:', err);
           return;
         }
-      
-        // Parse the JSON data
         const traitsDB = JSON.parse(data);
-      
-        // Count the number of objects with the "trait" key
         const traitCount = countTraitObjects(traitsDB);
-      
         console.log('Number of objects with a "trait" key:', traitCount);
       });
 
