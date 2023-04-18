@@ -1,0 +1,752 @@
+{
+    "Locomotion": [
+        {
+            "trait": "Fins",
+            "complexity": 3
+        },
+        {
+            "trait": "Legs",
+            "complexity": 4
+        },
+        {
+            "trait": "Wings",
+            "complexity": 5
+        },
+        {
+            "trait": "Gliding",
+            "complexity": 4
+        },
+        {
+            "trait": "Slithering",
+            "complexity": 3
+        },
+        {
+            "trait": "Crawling",
+            "complexity": 2
+        },
+        {
+            "trait": "Burrowing",
+            "complexity": 3
+        },
+        {
+            "trait": "Hopping",
+            "complexity": 2
+        },
+        {
+            "trait": "Swimming",
+            "complexity": 3
+        },
+        {
+            "trait": "Jet propulsion",
+            "complexity": 4
+        },
+        {
+            "trait": "Sessile (non-mobile)",
+            "complexity": 1
+        }
+    ],
+    "Respiration": [
+        {
+            "trait": "Gills",
+            "complexity": 3
+        },
+        {
+            "trait": "Lungs",
+            "complexity": 4
+        },
+        {
+            "trait": "Spiracles (insects)",
+            "complexity": 3
+        },
+        {
+            "trait": "Cutaneous respiration (skin)",
+            "complexity": 2
+        },
+        {
+            "trait": "Tracheal system (insects)",
+            "complexity": 3
+        },
+        {
+            "trait": "Book lungs (arachnids)",
+            "complexity": 2
+        }
+    ],
+    "Nutrition": [
+        {
+            "trait": "Herbivore",
+            "complexity": 2
+        },
+        {
+            "trait": "Carnivore",
+            "complexity": 2
+        },
+        {
+            "trait": "Omnivore",
+            "complexity": 3
+        },
+        {
+            "trait": "Filter feeder",
+            "complexity": 4
+        },
+        {
+            "trait": "Detritivore",
+            "complexity": 2
+        },
+        {
+            "trait": "Parasitic",
+            "complexity": 5
+        },
+        {
+            "trait": "Symbiotic",
+            "complexity": 4
+        },
+        {
+            "trait": "Autotrophic (photosynthesis, chemosynthesis)",
+            "complexity": 5
+        },
+        {
+            "trait": "Frugivore",
+            "complexity": 2
+        },
+        {
+            "trait": "Nectarivore",
+            "complexity": 2
+        }
+    ],
+    "Reproduction": [
+        {
+            "trait": "Sexual (internal fertilization, external fertilization)",
+            "complexity": 4
+        },
+        {
+            "trait": "Asexual (budding, fragmentation, parthenogenesis, fission)",
+            "complexity": 3
+        },
+        {
+            "trait": "Oviparous (egg-laying)",
+            "complexity": 3
+        },
+        {
+            "trait": "Viviparous (live birth)",
+            "complexity": 4
+        },
+        {
+            "trait": "Ovoviviparous (eggs develop inside the parent)",
+            "complexity": 4
+        }
+    ],
+    "Sensory": [
+        {
+            "trait": "Vision (compound eyes, simple eyes, binocular vision, nocturnal vision)",
+            "complexity": 5
+        },
+        {
+            "trait": "Hearing",
+            "complexity": 4
+        },
+        {
+            "trait": "Olfaction (smell)",
+            "complexity": 4
+        },
+        {
+            "trait": "Gustation (taste)",
+            "complexity": 3
+        },
+        {
+            "trait": "Mechanoreception (touch, vibration, pressure)",
+            "complexity": 4
+        },
+        {
+            "trait": "Electroreception",
+            "complexity": 5
+        },
+        {
+            "trait": "Magnetoreception",
+            "complexity": 5
+        },
+        {
+            "trait": "Thermoreception",
+            "complexity": 4
+        },
+        {
+            "trait": "Chemoreception (chemical sensing)",
+            "complexity": 4
+        }
+    ],
+    "Defense": [
+        {
+            "trait": "Camouflage (cryptic coloration, countershading, disruptive coloration)",
+            "complexity": 3
+        },
+        {
+            "trait": "Spines",
+            "complexity": 2
+        },
+        {
+            "trait": "Toxins (venom, poison)",
+            "complexity": 5
+        },
+        {
+            "trait": "Armor (exoskeleton, scales, shells)",
+            "complexity": 4
+        },
+        {
+            "trait": "Mimicry (Batesian, Müllerian)",
+            "complexity": 4
+        },
+        {
+            "trait": "Startle displays",
+            "complexity": 3
+        },
+        {
+            "trait": "Autotomy (shedding body parts)",
+            "complexity": 3
+        },
+        {
+            "trait": "Ink secretion (cephalopods)",
+            "complexity": 3
+        }
+    ],
+    "Thermoregulation": [
+        {
+            "trait": "Ectothermy (cold-blooded)",
+            "complexity": 2
+        },
+        {
+            "trait": "Endothermy (warm-blooded)",
+            "complexity": 4
+        },
+        {
+            "trait": "Heterothermy (regional temperature variation)",
+            "complexity": 3
+        },
+        {
+            "trait": "Insulation (fur, feathers, blubber)",
+            "complexity": 3
+        }
+    ],
+    "Growth and development": [
+        {
+            "trait": "Indeterminate growth (continuous growth throughout life)",
+            "complexity": 3
+        },
+        {
+            "trait": "Determinate growth (growth stops after reaching a certain size or age)",
+            "complexity": 2
+        },
+        {
+            "trait": "Metamorphosis (distinct developmental stages, e.g., egg, larva, pupa, adult)",
+            "complexity": 5
+        },
+        {
+            "trait": "Direct development (no metamorphosis, offspring resemble smaller versions of adults)",
+            "complexity": 3
+        }
+    ],
+    "Immune system": [
+        {
+            "trait": "Innate immunity (non-specific defense mechanisms)",
+            "complexity": 3
+        },
+        {
+            "trait": "Adaptive immunity (specific defense mechanisms)",
+            "complexity": 4
+        },
+        {
+            "trait": "Inflammation (response to infection or injury)",
+            "complexity": 2
+        }
+    ],
+    "Neural system": [
+        {
+            "trait": "Simple nerve net",
+            "complexity": 1
+        },
+        {
+            "trait": "Centralized nerve cord",
+            "complexity": 2
+        },
+        {
+            "trait": "Ganglia (localized nerve clusters)",
+            "complexity": 3
+        },
+        {
+            "trait": "Bilaterally symmetric brain",
+            "complexity": 4
+        },
+        {
+            "trait": "Cerebral cortex (higher cognitive functions)",
+            "complexity": 5
+        },
+        {
+            "trait": "Cerebellum (motor control)",
+            "complexity": 4
+        },
+        {
+            "trait": "Limbic system (emotions and memory)",
+            "complexity": 4
+        },
+        {
+            "trait": "Autonomic nervous system (involuntary functions)",
+            "complexity": 3
+        },
+        {
+            "trait": "Sensory processing (visual, auditory, tactile, olfactory, gustatory)",
+            "complexity": 4
+        },
+        {
+            "trait": "Neurotransmitters (serotonin, dopamine, acetylcholine, etc.)",
+            "complexity": 4
+        }
+    ],
+    "Digestion": [
+        {
+            "trait": "Intracellular digestion",
+            "complexity": 2
+        },
+        {
+            "trait": "Extracellular digestion (gastrovascular cavity)",
+            "complexity": 3
+        },
+        {
+            "trait": "Complete digestive system (mouth to anus)",
+            "complexity": 4
+        },
+        {
+            "trait": "Foregut fermentation (ruminants)",
+            "complexity": 4
+        },
+        {
+            "trait": "Hindgut fermentation (cecum)",
+            "complexity": 4
+        },
+        {
+            "trait": "Carnivorous digestive adaptations (short gut)",
+            "complexity": 3
+        },
+        {
+            "trait": "Herbivorous digestive adaptations (long gut)",
+            "complexity": 3
+        },
+        {
+            "trait": "Enzymatic digestion (amylase, protease, lipase, etc.)",
+            "complexity": 4
+        },
+        {
+            "trait": "Absorption and assimilation (villi, microvilli)",
+            "complexity": 4
+        },
+        {
+            "trait": "Digestive symbiosis (gut microbiota)",
+            "complexity": 5
+        }
+    ],
+    "Structural support": [
+        {
+            "trait": "Hydrostatic skeleton (fluid pressure)",
+            "complexity": 3
+        },
+        {
+            "trait": "Exoskeleton (chitin, calcium carbonate)",
+            "complexity": 4
+        },
+        {
+            "trait": "Endoskeleton (bone, cartilage)",
+            "complexity": 5
+        },
+        {
+            "trait": "Axial skeleton (vertebral column, skull)",
+            "complexity": 4
+        },
+        {
+            "trait": "Appendicular skeleton (limbs, pelvic and pectoral girdles)",
+            "complexity": 4
+        },
+        {
+            "trait": "Muscular system (smooth, skeletal, cardiac)",
+            "complexity": 4
+        },
+        {
+            "trait": "Tendons and ligaments",
+            "complexity": 3
+        },
+        {
+            "trait": "Joint types (hinge, ball-and-socket, pivot, etc.)",
+            "complexity": 3
+        },
+        {
+            "trait": "Musculoskeletal adaptations (flight, swimming, climbing, etc.)",
+            "complexity": 5
+        }
+    ],
+    "Pigmentation": [
+        {
+            "trait": "Melanin (brown, black, reddish-brown)",
+            "complexity": 2
+        },
+        {
+            "trait": "Carotenoids (red, orange, yellow)",
+            "complexity": 2
+        },
+        {
+            "trait": "Porphyrins (red, brown, green, blue)",
+            "complexity": 3
+        },
+        {
+            "trait": "Structural colors (iridescence, scattering, interference)",
+            "complexity": 4
+        },
+        {
+            "trait": "Chromatophores (color-changing cells)",
+            "complexity": 5
+        },
+        {
+            "trait": "Bioluminescence (light-producing)",
+            "complexity": 5
+        },
+        {
+            "trait": "Camouflage patterns (cryptic, disruptive, countershading)",
+            "complexity": 3
+        },
+        {
+            "trait": "Aposematism (warning coloration)",
+            "complexity": 4
+        },
+        {
+            "trait": "Sexual selection (differences between males and females)",
+            "complexity": 4
+        },
+        {
+            "trait": "Seasonal color changes (mammals, birds)",
+            "complexity": 3
+        }
+    ],
+    "Communication": [
+        {
+            "trait": "Visual signals (color, patterns, displays)",
+            "complexity": 4
+        },
+        {
+            "trait": "Acoustic signals (calls, songs)",
+            "complexity": 4
+        },
+        {
+            "trait": "Chemical signals (pheromones)",
+            "complexity": 3
+        },
+        {
+            "trait": "Tactile signals (touch, vibrations)",
+            "complexity": 3
+        },
+        {
+            "trait": "Electric signals (electricfield generation and detection)",
+            "complexity": 5
+        }
+    ],
+    "Social behavior": [
+        {
+            "trait": "Solitary lifestyle",
+            "complexity": 1
+        },
+        {
+            "trait": "Pair bonding",
+            "complexity": 3
+        },
+        {
+            "trait": "Group living (fission-fusion, stable groups)",
+            "complexity": 4
+        },
+        {
+            "trait": "Hierarchy (dominant-subordinate relationships)",
+            "complexity": 3
+        },
+        {
+            "trait": "Cooperative behavior (hunting, defense, resource sharing)",
+            "complexity": 5
+        },
+        {
+            "trait": "Altruism (helping others at a cost to oneself)",
+            "complexity": 4
+        }
+    ],
+    "Mating behavior": [
+        {
+            "trait": "Monogamy (single mate)",
+            "complexity": 3
+        },
+        {
+            "trait": "Polygamy (multiple mates)",
+            "complexity": 4
+        },
+        {
+            "trait": "Polygyny (one male, multiple females)",
+            "complexity": 4
+        },
+        {
+            "trait": "Polyandry (one female, multiple males)",
+            "complexity": 4
+        },
+        {
+            "trait": "Polygynandry (multiple males and females)",
+            "complexity": 4
+        },
+        {
+            "trait": "Mate choice (female choice, male choice)",
+            "complexity": 4
+        },
+        {
+            "trait": "Sexual selection (ornaments, displays, competition)",
+            "complexity": 5
+        },
+        {
+            "trait": "Nuptial gifts (food or other resources provided to mates)",
+            "complexity": 3
+        },
+        {
+            "trait": "Mating rituals (courtship dances, displays)",
+            "complexity": 5
+        }
+    ],
+    "Parental care": [
+        {
+            "trait": "No parental care",
+            "complexity": 1
+        },
+        {
+            "trait": "Uniparental care (one parent provides care)",
+            "complexity": 2
+        },
+        {
+            "trait": "Maternal care (only the mother provides care)",
+            "complexity": 2
+        },
+        {
+            "trait": "Paternal care (only the father provides care)",
+            "complexity": 2
+        },
+        {
+            "trait": "Biparental care (both parents provide care)",
+            "complexity": 3
+        },
+        {
+            "trait": "Alloparental care (non-parent individuals provide care)",
+            "complexity": 4
+        },
+        {
+            "trait": "Nest building",
+            "complexity": 3
+        },
+        {
+            "trait": "Feeding offspring",
+            "complexity": 3
+        },
+        {
+            "trait": "Protection of offspring",
+            "complexity": 3
+        }
+    ],
+    "Migration": [
+        {
+            "trait": "No migration",
+            "complexity": 1
+        },
+        {
+            "trait": "Altitudinal migration (seasonal movement up and down mountains)",
+            "complexity": 3
+        },
+        {
+            "trait": "Latitudinal migration (seasonal movement towards the poles or equator)",
+            "complexity": 4
+        },
+        {
+            "trait": "Longitudinal migration (seasonal movement east or west)",
+            "complexity": 3
+        },
+        {
+            "trait": "Breeding migration (movement to specific breeding grounds)",
+            "complexity": 4
+        },
+        {
+            "trait": "Dispersal (movement from natal area to new area for breeding or resources)",
+            "complexity": 2
+        }
+    ],
+    "Metabolism": [
+        {
+            "trait": "Aerobic respiration",
+            "complexity": 2
+        },
+        {
+            "trait": "Anaerobic respiration",
+            "complexity": 3
+        },
+        {
+            "trait": "Fermentation",
+            "complexity": 3
+        },
+        {
+            "trait": "Glycolysis",
+            "complexity": 2
+        },
+        {
+            "trait": "Oxidative phosphorylation",
+            "complexity": 4
+        },
+        {
+            "trait": "Photosynthesis",
+            "complexity": 5
+        },
+        {
+            "trait": "Chemosynthesis",
+            "complexity": 5
+        }
+    ],
+    "Energy storage": [
+        {
+            "trait": "Fat storage",
+            "complexity": 2
+        },
+        {
+            "trait": "Glycogen storage",
+            "complexity": 2
+        },
+        {
+            "trait": "Protein storage",
+            "complexity": 2
+        },
+        {
+            "trait": "Carbohydrate storage",
+            "complexity": 2
+        }
+    ],
+    "Aging and lifespan": [
+        {
+            "trait": "Short lifespan",
+            "complexity": 1
+        },
+        {
+            "trait": "Intermediate lifespan",
+            "complexity": 2
+        },
+        {
+            "trait": "Long lifespan",
+            "complexity": 3
+        },
+        {
+            "trait": "Negligible senescence",
+            "complexity": 5
+        },
+        {
+            "trait": "Telomere maintenance",
+            "complexity": 4
+        },
+        {
+            "trait": "DNA repair mechanisms",
+            "complexity": 4
+        }
+    ],
+    "Regeneration": [
+        {
+            "trait": "Limited regeneration (wound healing)",
+            "complexity": 1
+        },
+        {
+            "trait": "Tissue regeneration",
+            "complexity": 3
+        },
+        {
+            "trait": "Organ regeneration",
+            "complexity": 4
+        },
+        {
+            "trait": "Limb regeneration",
+            "complexity": 5
+        },
+        {
+            "trait": "Whole-body regeneration",
+            "complexity": 5
+        }
+    ],
+    "Symbiosis": [
+        {
+            "trait": "Mutualism",
+            "complexity": 3
+        },
+        {
+            "trait": "Commensalism",
+            "complexity": 2
+        },
+        {
+            "trait": "Parasitism",
+            "complexity": 4
+        },
+        {
+            "trait": "Endosymbiosis",
+            "complexity": 5
+        },
+        {
+            "trait": "Ectosymbiosis",
+            "complexity": 4
+        },
+        {
+            "trait": "Facultative symbiosis",
+            "complexity": 3
+        },
+        {
+            "trait": "Obligate symbiosis",
+            "complexity": 5
+        }
+    ],
+    "Stress response": [
+        {
+            "trait": "Heat-shock proteins",
+            "complexity": 3
+        },
+        {
+            "trait": "Cold-shock proteins",
+            "complexity": 3
+        },
+        {
+            "trait": "Osmotic stress response",
+            "complexity": 3
+        },
+        {
+            "trait": "Oxidative stress response",
+            "complexity": 4
+        },
+        {
+            "trait": "Hypoxia response",
+            "complexity": 4
+        },
+        {
+            "trait": "DNA damage response",
+            "complexity": 5
+        }
+    ],
+    "Diapause (developmental arrest)": [
+        {
+            "trait": "Egg diapause",
+            "complexity": 2
+        },
+        {
+            "trait": "Larval diapause",
+            "complexity": 2
+        },
+        {
+            "trait": "Pupal diapause",
+            "complexity": 2
+        },
+        {
+            "trait": "Adult diapause",
+            "complexity": 2
+        },
+        {
+            "trait": "Quiescence",
+            "complexity": 1
+        },
+        {
+            "trait": "Hibernation",
+            "complexity": 3
+        }
+    ]
+}

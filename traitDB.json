@@ -1,0 +1,927 @@
+{
+  "Locomotion": [
+    {
+      "trait": "Fins",
+      "complexity": 3,
+      "ohcStrand": "0A218D980G00A2"
+    },
+    {
+      "trait": "Legs",
+      "complexity": 4,
+      "ohcStrand": "0A2364E4850A2364"
+    },
+    {
+      "trait": "Wings",
+      "complexity": 5,
+      "ohcStrand": "8A35834F008A35834F"
+    },
+    {
+      "trait": "Gliding",
+      "complexity": 4,
+      "ohcStrand": "1A7802E5341A7802"
+    },
+    {
+      "trait": "Slithering",
+      "complexity": 3,
+      "ohcStrand": "1A946D058G41A9"
+    },
+    {
+      "trait": "Crawling",
+      "complexity": 2,
+      "ohcStrand": "1A79C06E28G4"
+    },
+    {
+      "trait": "Burrowing",
+      "complexity": 3,
+      "ohcStrand": "1A835D568G31A8"
+    },
+    {
+      "trait": "Hopping",
+      "complexity": 2,
+      "ohcStrand": "1A53C45E00G5"
+    },
+    {
+      "trait": "Swimming",
+      "complexity": 3,
+      "ohcStrand": "2A679D833G92A6"
+    },
+    {
+      "trait": "Jet propulsion",
+      "complexity": 4,
+      "ohcStrand": "1A6217E0231A6217"
+    },
+    {
+      "trait": "Sessile (non-mobile)",
+      "complexity": 1,
+      "ohcStrand": "20919981"
+    }
+  ],
+  "Respiration": [
+    {
+      "trait": "Gills",
+      "complexity": 3,
+      "ohcStrand": "6A880D529G76A8"
+    },
+    {
+      "trait": "Lungs",
+      "complexity": 4,
+      "ohcStrand": "7A3782E1617A3782"
+    },
+    {
+      "trait": "Spiracles (insects)",
+      "complexity": 3,
+      "ohcStrand": "8A659D338G48A6"
+    },
+    {
+      "trait": "Cutaneous respiration (skin)",
+      "complexity": 2,
+      "ohcStrand": "8A13C20E60G6"
+    },
+    {
+      "trait": "Tracheal system (insects)",
+      "complexity": 3,
+      "ohcStrand": "9A694D688G19A6"
+    },
+    {
+      "trait": "Book lungs (arachnids)",
+      "complexity": 2,
+      "ohcStrand": "9A13C28E08G1"
+    }
+  ],
+  "Nutrition": [
+    {
+      "trait": "Herbivore",
+      "complexity": 2,
+      "ohcStrand": "3A55C06E10G8"
+    },
+    {
+      "trait": "Carnivore",
+      "complexity": 2,
+      "ohcStrand": "2A05C45E19G7"
+    },
+    {
+      "trait": "Omnivore",
+      "complexity": 3,
+      "ohcStrand": "1A446D518G31A4"
+    },
+    {
+      "trait": "Filter feeder",
+      "complexity": 4,
+      "ohcStrand": "2A1302E6732A1302"
+    },
+    {
+      "trait": "Detritivore",
+      "complexity": 2,
+      "ohcStrand": "5A80C85E77G1"
+    },
+    {
+      "trait": "Parasitic",
+      "complexity": 5,
+      "ohcStrand": "3A30878F343A30878F"
+    },
+    {
+      "trait": "Symbiotic",
+      "complexity": 4,
+      "ohcStrand": "1A5914E8951A5914"
+    },
+    {
+      "trait": "Autotrophic (photosynthesis, chemosynthesis)",
+      "complexity": 5,
+      "ohcStrand": "3A14191F513A14191F"
+    },
+    {
+      "trait": "Frugivore",
+      "complexity": 2,
+      "ohcStrand": "1A34C27E32G0"
+    },
+    {
+      "trait": "Nectarivore",
+      "complexity": 2,
+      "ohcStrand": "8A52C47E10G8"
+    }
+  ],
+  "Reproduction": [
+    {
+      "trait": "Sexual (internal fertilization, external fertilization)",
+      "complexity": 4,
+      "ohcStrand": "8A6544E4538A6544"
+    },
+    {
+      "trait": "Asexual (budding, fragmentation, parthenogenesis, fission)",
+      "complexity": 3,
+      "ohcStrand": "1A259D131G21A2"
+    },
+    {
+      "trait": "Oviparous (egg-laying)",
+      "complexity": 3,
+      "ohcStrand": "2A843D358G72A8"
+    },
+    {
+      "trait": "Viviparous (live birth)",
+      "complexity": 4,
+      "ohcStrand": "1A1598E9751A1598"
+    },
+    {
+      "trait": "Ovoviviparous (eggs develop inside the parent)",
+      "complexity": 4,
+      "ohcStrand": "1A9502E5901A9502"
+    }
+  ],
+  "Sensory": [
+    {
+      "trait": "Vision (compound eyes, simple eyes, binocular vision, nocturnal vision)",
+      "complexity": 5,
+      "ohcStrand": "1A25084F821A25084F"
+    },
+    {
+      "trait": "Hearing",
+      "complexity": 4,
+      "ohcStrand": "1A8345E8531A8345"
+    },
+    {
+      "trait": "Olfaction (smell)",
+      "complexity": 4,
+      "ohcStrand": "4A1641E0104A1641"
+    },
+    {
+      "trait": "Gustation (taste)",
+      "complexity": 3,
+      "ohcStrand": "9A453D908G89A4"
+    },
+    {
+      "trait": "Mechanoreception (touch, vibration, pressure)",
+      "complexity": 4,
+      "ohcStrand": "1A8088E3381A8088"
+    },
+    {
+      "trait": "Electroreception",
+      "complexity": 5,
+      "ohcStrand": "2A96786F842A96786F"
+    },
+    {
+      "trait": "Magnetoreception",
+      "complexity": 5,
+      "ohcStrand": "6A68052F916A68052F"
+    },
+    {
+      "trait": "Thermoreception",
+      "complexity": 4,
+      "ohcStrand": "1A0769E7011A0769"
+    },
+    {
+      "trait": "Chemoreception (chemical sensing)",
+      "complexity": 4,
+      "ohcStrand": "1A9291E5701A9291"
+    }
+  ],
+  "Defense": [
+    {
+      "trait": "Camouflage (cryptic coloration, countershading, disruptive coloration)",
+      "complexity": 3,
+      "ohcStrand": "2A015D994G22A0"
+    },
+    {
+      "trait": "Spines",
+      "complexity": 2,
+      "ohcStrand": "1A81C20E76G4"
+    },
+    {
+      "trait": "Toxins (venom, poison)",
+      "complexity": 5,
+      "ohcStrand": "2A82142F032A82142F"
+    },
+    {
+      "trait": "Armor (exoskeleton, scales, shells)",
+      "complexity": 4,
+      "ohcStrand": "1A6426E3221A6426"
+    },
+    {
+      "trait": "Mimicry (Batesian, Müllerian)",
+      "complexity": 4,
+      "ohcStrand": "1A9356E4341A9356"
+    },
+    {
+      "trait": "Startle displays",
+      "complexity": 3,
+      "ohcStrand": "3A255D026G63A2"
+    },
+    {
+      "trait": "Autotomy (shedding body parts)",
+      "complexity": 3,
+      "ohcStrand": "1A113D813G51A1"
+    },
+    {
+      "trait": "Ink secretion (cephalopods)",
+      "complexity": 3,
+      "ohcStrand": "8A732D132G28A7"
+    }
+  ],
+  "Thermoregulation": [
+    {
+      "trait": "Ectothermy (cold-blooded)",
+      "complexity": 2,
+      "ohcStrand": "1A18C10E40G7"
+    },
+    {
+      "trait": "Endothermy (warm-blooded)",
+      "complexity": 4,
+      "ohcStrand": "8A8977E8358A8977"
+    },
+    {
+      "trait": "Heterothermy (regional temperature variation)",
+      "complexity": 3,
+      "ohcStrand": "1A697D086G81A6"
+    },
+    {
+      "trait": "Insulation (fur, feathers, blubber)",
+      "complexity": 3,
+      "ohcStrand": "1A893D909G41A8"
+    }
+  ],
+  "Growth and development": [
+    {
+      "trait": "Indeterminate growth (continuous growth throughout life)",
+      "complexity": 3,
+      "ohcStrand": "1A406D054G31A4"
+    },
+    {
+      "trait": "Determinate growth (growth stops after reaching a certain size or age)",
+      "complexity": 2,
+      "ohcStrand": "1A91C13E19G8"
+    },
+    {
+      "trait": "Metamorphosis (distinct developmental stages, e.g., egg, larva, pupa, adult)",
+      "complexity": 5,
+      "ohcStrand": "8A77324F278A77324F"
+    },
+    {
+      "trait": "Direct development (no metamorphosis, offspring resemble smaller versions of adults)",
+      "complexity": 3,
+      "ohcStrand": "3A265D203G23A2"
+    }
+  ],
+  "Immune system": [
+    {
+      "trait": "Innate immunity (non-specific defense mechanisms)",
+      "complexity": 3,
+      "ohcStrand": "6A192D442G76A1"
+    },
+    {
+      "trait": "Adaptive immunity (specific defense mechanisms)",
+      "complexity": 4,
+      "ohcStrand": "2A0499E4212A0499"
+    },
+    {
+      "trait": "Inflammation (response to infection or injury)",
+      "complexity": 2,
+      "ohcStrand": "6A07C26E11G0"
+    }
+  ],
+  "Neural system": [
+    {
+      "trait": "Simple nerve net",
+      "complexity": 1,
+      "ohcStrand": "38835026"
+    },
+    {
+      "trait": "Centralized nerve cord",
+      "complexity": 2,
+      "ohcStrand": "6A80C55E73G2"
+    },
+    {
+      "trait": "Ganglia (localized nerve clusters)",
+      "complexity": 3,
+      "ohcStrand": "1A393D863G41A3"
+    },
+    {
+      "trait": "Bilaterally symmetric brain",
+      "complexity": 4,
+      "ohcStrand": "1A7779E8711A7779"
+    },
+    {
+      "trait": "Cerebral cortex (higher cognitive functions)",
+      "complexity": 5,
+      "ohcStrand": "2A07814F912A07814F"
+    },
+    {
+      "trait": "Cerebellum (motor control)",
+      "complexity": 4,
+      "ohcStrand": "1A3719E9841A3719"
+    },
+    {
+      "trait": "Limbic system (emotions and memory)",
+      "complexity": 4,
+      "ohcStrand": "0A6026E9100A6026"
+    },
+    {
+      "trait": "Autonomic nervous system (involuntary functions)",
+      "complexity": 3,
+      "ohcStrand": "4A825D220G44A8"
+    },
+    {
+      "trait": "Sensory processing (visual, auditory, tactile, olfactory, gustatory)",
+      "complexity": 4,
+      "ohcStrand": "1A5173E6451A5173"
+    },
+    {
+      "trait": "Neurotransmitters (serotonin, dopamine, acetylcholine, etc.)",
+      "complexity": 4,
+      "ohcStrand": "2A1223E2592A1223"
+    }
+  ],
+  "Digestion": [
+    {
+      "trait": "Intracellular digestion",
+      "complexity": 2,
+      "ohcStrand": "9A95C46E94G9"
+    },
+    {
+      "trait": "Extracellular digestion (gastrovascular cavity)",
+      "complexity": 3,
+      "ohcStrand": "2A016D701G52A0"
+    },
+    {
+      "trait": "Complete digestive system (mouth to anus)",
+      "complexity": 4,
+      "ohcStrand": "1A8083E7261A8083"
+    },
+    {
+      "trait": "Foregut fermentation (ruminants)",
+      "complexity": 4,
+      "ohcStrand": "1A5664E9641A5664"
+    },
+    {
+      "trait": "Hindgut fermentation (cecum)",
+      "complexity": 4,
+      "ohcStrand": "1A1007E6951A1007"
+    },
+    {
+      "trait": "Carnivorous digestive adaptations (short gut)",
+      "complexity": 3,
+      "ohcStrand": "2A224D335G72A2"
+    },
+    {
+      "trait": "Herbivorous digestive adaptations (long gut)",
+      "complexity": 3,
+      "ohcStrand": "9A590D242G19A5"
+    },
+    {
+      "trait": "Enzymatic digestion (amylase, protease, lipase, etc.)",
+      "complexity": 4,
+      "ohcStrand": "6A1933E7486A1933"
+    },
+    {
+      "trait": "Absorption and assimilation (villi, microvilli)",
+      "complexity": 4,
+      "ohcStrand": "1A0355E0361A0355"
+    },
+    {
+      "trait": "Digestive symbiosis (gut microbiota)",
+      "complexity": 5,
+      "ohcStrand": "1A54198F791A54198F"
+    }
+  ],
+  "Structural support": [
+    {
+      "trait": "Hydrostatic skeleton (fluid pressure)",
+      "complexity": 3,
+      "ohcStrand": "1A725D556G31A7"
+    },
+    {
+      "trait": "Exoskeleton (chitin, calcium carbonate)",
+      "complexity": 4,
+      "ohcStrand": "2A1290E4122A1290"
+    },
+    {
+      "trait": "Endoskeleton (bone, cartilage)",
+      "complexity": 5,
+      "ohcStrand": "1A82150F351A82150F"
+    },
+    {
+      "trait": "Axial skeleton (vertebral column, skull)",
+      "complexity": 4,
+      "ohcStrand": "7A7947E4147A7947"
+    },
+    {
+      "trait": "Appendicular skeleton (limbs, pelvic and pectoral girdles)",
+      "complexity": 4,
+      "ohcStrand": "7A8827E9007A8827"
+    },
+    {
+      "trait": "Muscular system (smooth, skeletal, cardiac)",
+      "complexity": 4,
+      "ohcStrand": "8A4190E3868A4190"
+    },
+    {
+      "trait": "Tendons and ligaments",
+      "complexity": 3,
+      "ohcStrand": "1A444D202G11A4"
+    },
+    {
+      "trait": "Joint types (hinge, ball-and-socket, pivot, etc.)",
+      "complexity": 3,
+      "ohcStrand": "7A079D184G17A0"
+    },
+    {
+      "trait": "Musculoskeletal adaptations (flight, swimming, climbing, etc.)",
+      "complexity": 5,
+      "ohcStrand": "1A23856F971A23856F"
+    }
+  ],
+  "Pigmentation": [
+    {
+      "trait": "Melanin (brown, black, reddish-brown)",
+      "complexity": 2,
+      "ohcStrand": "1A62C40E56G5"
+    },
+    {
+      "trait": "Carotenoids (red, orange, yellow)",
+      "complexity": 2,
+      "ohcStrand": "5A01C30E86G3"
+    },
+    {
+      "trait": "Porphyrins (red, brown, green, blue)",
+      "complexity": 3,
+      "ohcStrand": "2A143D471G42A1"
+    },
+    {
+      "trait": "Structural colors (iridescence, scattering, interference)",
+      "complexity": 4,
+      "ohcStrand": "8A7173E0858A7173"
+    },
+    {
+      "trait": "Chromatophores (color-changing cells)",
+      "complexity": 5,
+      "ohcStrand": "7A83088F447A83088F"
+    },
+    {
+      "trait": "Bioluminescence (light-producing)",
+      "complexity": 5,
+      "ohcStrand": "1A46802F381A46802F"
+    },
+    {
+      "trait": "Camouflage patterns (cryptic, disruptive, countershading)",
+      "complexity": 3,
+      "ohcStrand": "1A676D691G11A6"
+    },
+    {
+      "trait": "Aposematism (warning coloration)",
+      "complexity": 4,
+      "ohcStrand": "1A7576E8941A7576"
+    },
+    {
+      "trait": "Sexual selection (differences between males and females)",
+      "complexity": 4,
+      "ohcStrand": "2A5405E6102A5405"
+    },
+    {
+      "trait": "Seasonal color changes (mammals, birds)",
+      "complexity": 3,
+      "ohcStrand": "1A488D244G01A4"
+    }
+  ],
+  "Communication": [
+    {
+      "trait": "Visual signals (color, patterns, displays)",
+      "complexity": 4,
+      "ohcStrand": "1A1803E1541A1803"
+    },
+    {
+      "trait": "Acoustic signals (calls, songs)",
+      "complexity": 4,
+      "ohcStrand": "2A1216E4802A1216"
+    },
+    {
+      "trait": "Chemical signals (pheromones)",
+      "complexity": 3,
+      "ohcStrand": "1A241D271G61A2"
+    },
+    {
+      "trait": "Tactile signals (touch, vibrations)",
+      "complexity": 3,
+      "ohcStrand": "1A797D271G41A7"
+    },
+    {
+      "trait": "Electric signals (electricfield generation and detection)",
+      "complexity": 5,
+      "ohcStrand": "1A13302F441A13302F"
+    }
+  ],
+  "Social behavior": [
+    {
+      "trait": "Solitary lifestyle",
+      "complexity": 1,
+      "ohcStrand": "12270126"
+    },
+    {
+      "trait": "Pair bonding",
+      "complexity": 3,
+      "ohcStrand": "1A795D428G01A7"
+    },
+    {
+      "trait": "Group living (fission-fusion, stable groups)",
+      "complexity": 4,
+      "ohcStrand": "8A5457E8438A5457"
+    },
+    {
+      "trait": "Hierarchy (dominant-subordinate relationships)",
+      "complexity": 3,
+      "ohcStrand": "1A407D659G31A4"
+    },
+    {
+      "trait": "Cooperative behavior (hunting, defense, resource sharing)",
+      "complexity": 5,
+      "ohcStrand": "1A91648F671A91648F"
+    },
+    {
+      "trait": "Altruism (helping others at a cost to oneself)",
+      "complexity": 4,
+      "ohcStrand": "1A8246E8681A8246"
+    }
+  ],
+  "Mating behavior": [
+    {
+      "trait": "Monogamy (single mate)",
+      "complexity": 3,
+      "ohcStrand": "1A616D327G11A6"
+    },
+    {
+      "trait": "Polygamy (multiple mates)",
+      "complexity": 4,
+      "ohcStrand": "1A9827E2531A9827"
+    },
+    {
+      "trait": "Polygyny (one male, multiple females)",
+      "complexity": 4,
+      "ohcStrand": "1A0553E3441A0553"
+    },
+    {
+      "trait": "Polyandry (one female, multiple males)",
+      "complexity": 4,
+      "ohcStrand": "1A3814E7981A3814"
+    },
+    {
+      "trait": "Polygynandry (multiple males and females)",
+      "complexity": 4,
+      "ohcStrand": "1A4006E6711A4006"
+    },
+    {
+      "trait": "Mate choice (female choice, male choice)",
+      "complexity": 4,
+      "ohcStrand": "1A6140E1261A6140"
+    },
+    {
+      "trait": "Sexual selection (ornaments, displays, competition)",
+      "complexity": 5,
+      "ohcStrand": "5A92417F815A92417F"
+    },
+    {
+      "trait": "Nuptial gifts (food or other resources provided to mates)",
+      "complexity": 3,
+      "ohcStrand": "1A091D015G61A0"
+    },
+    {
+      "trait": "Mating rituals (courtship dances, displays)",
+      "complexity": 5,
+      "ohcStrand": "5A39041F105A39041F"
+    }
+  ],
+  "Parental care": [
+    {
+      "trait": "No parental care",
+      "complexity": 1,
+      "ohcStrand": "18063621"
+    },
+    {
+      "trait": "Uniparental care (one parent provides care)",
+      "complexity": 2,
+      "ohcStrand": "1A41C48E66G4"
+    },
+    {
+      "trait": "Maternal care (only the mother provides care)",
+      "complexity": 2,
+      "ohcStrand": "1A08C80E95G9"
+    },
+    {
+      "trait": "Paternal care (only the father provides care)",
+      "complexity": 2,
+      "ohcStrand": "1A94C62E34G5"
+    },
+    {
+      "trait": "Biparental care (both parents provide care)",
+      "complexity": 3,
+      "ohcStrand": "3A449D384G33A4"
+    },
+    {
+      "trait": "Alloparental care (non-parent individuals provide care)",
+      "complexity": 4,
+      "ohcStrand": "1A1633E0351A1633"
+    },
+    {
+      "trait": "Nest building",
+      "complexity": 3,
+      "ohcStrand": "2A085D469G02A0"
+    },
+    {
+      "trait": "Feeding offspring",
+      "complexity": 3,
+      "ohcStrand": "6A341D047G06A3"
+    },
+    {
+      "trait": "Protection of offspring",
+      "complexity": 3,
+      "ohcStrand": "1A325D754G11A3"
+    }
+  ],
+  "Migration": [
+    {
+      "trait": "No migration",
+      "complexity": 1,
+      "ohcStrand": "10348288"
+    },
+    {
+      "trait": "Altitudinal migration (seasonal movement up and down mountains)",
+      "complexity": 3,
+      "ohcStrand": "1A686D438G31A6"
+    },
+    {
+      "trait": "Latitudinal migration (seasonal movement towards the poles or equator)",
+      "complexity": 4,
+      "ohcStrand": "1A1909E9831A1909"
+    },
+    {
+      "trait": "Longitudinal migration (seasonal movement east or west)",
+      "complexity": 3,
+      "ohcStrand": "8A043D129G98A0"
+    },
+    {
+      "trait": "Breeding migration (movement to specific breeding grounds)",
+      "complexity": 4,
+      "ohcStrand": "1A3611E2851A3611"
+    },
+    {
+      "trait": "Dispersal (movement from natal area to new area for breeding or resources)",
+      "complexity": 2,
+      "ohcStrand": "1A27C93E60G0"
+    }
+  ],
+  "Metabolism": [
+    {
+      "trait": "Aerobic respiration",
+      "complexity": 2,
+      "ohcStrand": "2A15C85E07G9"
+    },
+    {
+      "trait": "Anaerobic respiration",
+      "complexity": 3,
+      "ohcStrand": "1A657D736G01A6"
+    },
+    {
+      "trait": "Fermentation",
+      "complexity": 3,
+      "ohcStrand": "1A156D116G01A1"
+    },
+    {
+      "trait": "Glycolysis",
+      "complexity": 2,
+      "ohcStrand": "1A62C26E11G7"
+    },
+    {
+      "trait": "Oxidative phosphorylation",
+      "complexity": 4,
+      "ohcStrand": "9A9147E4029A9147"
+    },
+    {
+      "trait": "Photosynthesis",
+      "complexity": 5,
+      "ohcStrand": "1A86215F871A86215F"
+    },
+    {
+      "trait": "Chemosynthesis",
+      "complexity": 5,
+      "ohcStrand": "1A75258F321A75258F"
+    }
+  ],
+  "Energy storage": [
+    {
+      "trait": "Fat storage",
+      "complexity": 2,
+      "ohcStrand": "2A02C44E56G4"
+    },
+    {
+      "trait": "Glycogen storage",
+      "complexity": 2,
+      "ohcStrand": "1A45C58E81G7"
+    },
+    {
+      "trait": "Protein storage",
+      "complexity": 2,
+      "ohcStrand": "1A03C63E05G7"
+    },
+    {
+      "trait": "Carbohydrate storage",
+      "complexity": 2,
+      "ohcStrand": "9A53C33E09G3"
+    }
+  ],
+  "Aging and lifespan": [
+    {
+      "trait": "Short lifespan",
+      "complexity": 1,
+      "ohcStrand": "92426945"
+    },
+    {
+      "trait": "Intermediate lifespan",
+      "complexity": 2,
+      "ohcStrand": "6A15C17E01G9"
+    },
+    {
+      "trait": "Long lifespan",
+      "complexity": 3,
+      "ohcStrand": "7A138D583G77A1"
+    },
+    {
+      "trait": "Negligible senescence",
+      "complexity": 5,
+      "ohcStrand": "6A00390F636A00390F"
+    },
+    {
+      "trait": "Telomere maintenance",
+      "complexity": 4,
+      "ohcStrand": "1A1205E9491A1205"
+    },
+    {
+      "trait": "DNA repair mechanisms",
+      "complexity": 4,
+      "ohcStrand": "9A8563E3739A8563"
+    }
+  ],
+  "Regeneration": [
+    {
+      "trait": "Limited regeneration (wound healing)",
+      "complexity": 1,
+      "ohcStrand": "10790345"
+    },
+    {
+      "trait": "Tissue regeneration",
+      "complexity": 3,
+      "ohcStrand": "3A977D403G43A9"
+    },
+    {
+      "trait": "Organ regeneration",
+      "complexity": 4,
+      "ohcStrand": "2A1093E0512A1093"
+    },
+    {
+      "trait": "Limb regeneration",
+      "complexity": 5,
+      "ohcStrand": "1A04890F181A04890F"
+    },
+    {
+      "trait": "Whole-body regeneration",
+      "complexity": 5,
+      "ohcStrand": "1A44944F191A44944F"
+    }
+  ],
+  "Symbiosis": [
+    {
+      "trait": "Mutualism",
+      "complexity": 3,
+      "ohcStrand": "6A709D350G86A7"
+    },
+    {
+      "trait": "Commensalism",
+      "complexity": 2,
+      "ohcStrand": "9A32C92E36G4"
+    },
+    {
+      "trait": "Parasitism",
+      "complexity": 4,
+      "ohcStrand": "1A6672E9341A6672"
+    },
+    {
+      "trait": "Endosymbiosis",
+      "complexity": 5,
+      "ohcStrand": "1A80789F251A80789F"
+    },
+    {
+      "trait": "Ectosymbiosis",
+      "complexity": 4,
+      "ohcStrand": "1A9142E5311A9142"
+    },
+    {
+      "trait": "Facultative symbiosis",
+      "complexity": 3,
+      "ohcStrand": "9A638D419G79A6"
+    },
+    {
+      "trait": "Obligate symbiosis",
+      "complexity": 5,
+      "ohcStrand": "2A04309F752A04309F"
+    }
+  ],
+  "Stress response": [
+    {
+      "trait": "Heat-shock proteins",
+      "complexity": 3,
+      "ohcStrand": "1A508D157G81A5"
+    },
+    {
+      "trait": "Cold-shock proteins",
+      "complexity": 3,
+      "ohcStrand": "1A381D437G71A3"
+    },
+    {
+      "trait": "Osmotic stress response",
+      "complexity": 3,
+      "ohcStrand": "1A579D321G61A5"
+    },
+    {
+      "trait": "Oxidative stress response",
+      "complexity": 4,
+      "ohcStrand": "1A5036E1891A5036"
+    },
+    {
+      "trait": "Hypoxia response",
+      "complexity": 4,
+      "ohcStrand": "6A9210E5796A9210"
+    },
+    {
+      "trait": "DNA damage response",
+      "complexity": 5,
+      "ohcStrand": "3A88811F943A88811F"
+    }
+  ],
+  "Diapause (developmental arrest)": [
+    {
+      "trait": "Egg diapause",
+      "complexity": 2,
+      "ohcStrand": "1A08C61E97G5"
+    },
+    {
+      "trait": "Larval diapause",
+      "complexity": 2,
+      "ohcStrand": "1A19C83E58G8"
+    },
+    {
+      "trait": "Pupal diapause",
+      "complexity": 2,
+      "ohcStrand": "3A79C79E96G7"
+    },
+    {
+      "trait": "Adult diapause",
+      "complexity": 2,
+      "ohcStrand": "8A82C06E01G6"
+    },
+    {
+      "trait": "Quiescence",
+      "complexity": 1,
+      "ohcStrand": "13854493"
+    },
+    {
+      "trait": "Hibernation",
+      "complexity": 3,
+      "ohcStrand": "5A412D988G35A4"
+    }
+  ]
+}

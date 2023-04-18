@@ -1,0 +1,577 @@
+{
+  "Locomotion": [
+    {
+      "trait": "Fins"
+    },
+    {
+      "trait": "Legs"
+    },
+    {
+      "trait": "Wings"
+    },
+    {
+      "trait": "Gliding"
+    },
+    {
+      "trait": "Slithering"
+    },
+    {
+      "trait": "Crawling"
+    },
+    {
+      "trait": "Burrowing"
+    },
+    {
+      "trait": "Hopping"
+    },
+    {
+      "trait": "Swimming"
+    },
+    {
+      "trait": "Jet propulsion"
+    },
+    {
+      "trait": "Sessile (non-mobile)"
+    }
+  ],
+  "Respiration": [
+    {
+      "trait": "Gills"
+    },
+    {
+      "trait": "Lungs"
+    },
+    {
+      "trait": "Spiracles (insects)"
+    },
+    {
+      "trait": "Cutaneous respiration (skin)"
+    },
+    {
+      "trait": "Tracheal system (insects)"
+    },
+    {
+      "trait": "Book lungs (arachnids)"
+    }
+  ],
+  "Nutrition": [
+    {
+      "trait": "Herbivore"
+    },
+    {
+      "trait": "Carnivore"
+    },
+    {
+      "trait": "Omnivore"
+    },
+    {
+      "trait": "Filter feeder"
+    },
+    {
+      "trait": "Detritivore"
+    },
+    {
+      "trait": "Parasitic"
+    },
+    {
+      "trait": "Symbiotic"
+    },
+    {
+      "trait": "Autotrophic (photosynthesis, chemosynthesis)"
+    },
+    {
+      "trait": "Frugivore"
+    },
+    {
+      "trait": "Nectarivore"
+    }
+  ],
+  "Reproduction": [
+    {
+      "trait": "Sexual (internal fertilization, external fertilization)"
+    },
+    {
+      "trait": "Asexual (budding, fragmentation, parthenogenesis, fission)"
+    },
+    {
+      "trait": "Oviparous (egg-laying)"
+    },
+    {
+      "trait": "Viviparous (live birth)"
+    },
+    {
+      "trait": "Ovoviviparous (eggs develop inside the parent)"
+    }
+  ],
+  "Sensory": [
+    {
+      "trait": "Vision (compound eyes, simple eyes, binocular vision, nocturnal vision)"
+    },
+    {
+      "trait": "Hearing"
+    },
+    {
+      "trait": "Olfaction (smell)"
+    },
+    {
+      "trait": "Gustation (taste)"
+    },
+    {
+      "trait": "Mechanoreception (touch, vibration, pressure)"
+    },
+    {
+      "trait": "Electroreception"
+    },
+    {
+      "trait": "Magnetoreception"
+    },
+    {
+      "trait": "Thermoreception"
+    },
+    {
+      "trait": "Chemoreception (chemical sensing)"
+    }
+  ],
+  "Defense": [
+    {
+      "trait": "Camouflage (cryptic coloration, countershading, disruptive coloration)"
+    },
+    {
+      "trait": "Spines"
+    },
+    {
+      "trait": "Toxins (venom, poison)"
+    },
+    {
+      "trait": "Armor (exoskeleton, scales, shells)"
+    },
+    {
+      "trait": "Mimicry (Batesian, Müllerian)"
+    },
+    {
+      "trait": "Startle displays"
+    },
+    {
+      "trait": "Autotomy (shedding body parts)"
+    },
+    {
+      "trait": "Ink secretion (cephalopods)"
+    }
+  ],
+  "Thermoregulation": [
+    {
+      "trait": "Ectothermy (cold-blooded)"
+    },
+    {
+      "trait": "Endothermy (warm-blooded)"
+    },
+    {
+      "trait": "Heterothermy (regional temperature variation)"
+    },
+    {
+      "trait": "Insulation (fur, feathers, blubber)"
+    }
+  ],
+  "Growth and development": [
+    {
+      "trait": "Indeterminate growth (continuous growth throughout life)"
+    },
+    {
+      "trait": "Determinate growth (growth stops after reaching a certain size or age)"
+    },
+    {
+      "trait": "Metamorphosis (distinct developmental stages, e.g., egg, larva, pupa, adult)"
+    },
+    {
+      "trait": "Direct development (no metamorphosis, offspring resemble smaller versions of adults)"
+    }
+  ],
+  "Immune system": [
+    {
+      "trait": "Innate immunity (non-specific defense mechanisms)"
+    },
+    {
+      "trait": "Adaptive immunity (specific defense mechanisms)"
+    },
+    {
+      "trait": "Inflammation (response to infection or injury)"
+    }
+  ],
+  "Neural system": [
+    {
+      "trait": "Simple nerve net"
+    },
+    {
+      "trait": "Centralized nerve cord"
+    },
+    {
+      "trait": "Ganglia (localized nerve clusters)"
+    },
+    {
+      "trait": "Bilaterally symmetric brain"
+    },
+    {
+      "trait": "Cerebral cortex (higher cognitive functions)"
+    },
+    {
+      "trait": "Cerebellum (motor control)"
+    },
+    {
+      "trait": "Limbic system (emotions and memory)"
+    },
+    {
+      "trait": "Autonomic nervous system (involuntary functions)"
+    },
+    {
+      "trait": "Sensory processing (visual, auditory, tactile, olfactory, gustatory)"
+    },
+    {
+      "trait": "Neurotransmitters (serotonin, dopamine, acetylcholine, etc.)"
+    }
+  ],
+  "Digestion": [
+    {
+      "trait": "Intracellular digestion"
+    },
+    {
+      "trait": "Extracellular digestion (gastrovascular cavity)"
+    },
+    {
+      "trait": "Complete digestive system (mouth to anus)"
+    },
+    {
+      "trait": "Foregut fermentation (ruminants)"
+    },
+    {
+      "trait": "Hindgut fermentation (cecum)"
+    },
+    {
+      "trait": "Carnivorous digestive adaptations (short gut)"
+    },
+    {
+      "trait": "Herbivorous digestive adaptations (long gut)"
+    },
+    {
+      "trait": "Enzymatic digestion (amylase, protease, lipase, etc.)"
+    },
+    {
+      "trait": "Absorption and assimilation (villi, microvilli)"
+    },
+    {
+      "trait": "Digestive symbiosis (gut microbiota)"
+    }
+  ],
+  "Structural support": [
+    {
+      "trait": "Hydrostatic skeleton (fluid pressure)"
+    },
+    {
+      "trait": "Exoskeleton (chitin, calcium carbonate)"
+    },
+    {
+      "trait": "Endoskeleton (bone, cartilage)"
+    },
+    {
+      "trait": "Axial skeleton (vertebral column, skull)"
+    },
+    {
+      "trait": "Appendicular skeleton (limbs, pelvic and pectoral girdles)"
+    },
+    {
+      "trait": "Muscular system (smooth, skeletal, cardiac)"
+    },
+    {
+      "trait": "Tendons and ligaments"
+    },
+    {
+      "trait": "Joint types (hinge, ball-and-socket, pivot, etc.)"
+    },
+    {
+      "trait": "Musculoskeletal adaptations (flight, swimming, climbing, etc.)"
+    }
+  ],
+  "Pigmentation": [
+    {
+      "trait": "Melanin (brown, black, reddish-brown)"
+    },
+    {
+      "trait": "Carotenoids (red, orange, yellow)"
+    },
+    {
+      "trait": "Porphyrins (red, brown, green, blue)"
+    },
+    {
+      "trait": "Structural colors (iridescence, scattering, interference)"
+    },
+    {
+      "trait": "Chromatophores (color-changing cells)"
+    },
+    {
+      "trait": "Bioluminescence (light-producing)"
+    },
+    {
+      "trait": "Camouflage patterns (cryptic, disruptive, countershading)"
+    },
+    {
+      "trait": "Aposematism (warning coloration)"
+    },
+    {
+      "trait": "Sexual selection (differences between males and females)"
+    },
+    {
+      "trait": "Seasonal color changes (mammals, birds)"
+    }
+  ],
+  "Communication": [
+    {
+      "trait": "Visual signals (color, patterns, displays)"
+    },
+    {
+      "trait": "Acoustic signals (calls, songs)"
+    },
+    {
+      "trait": "Chemical signals (pheromones)"
+    },
+    {
+      "trait": "Tactile signals (touch, vibrations)"
+    },
+    {
+      "trait": "Electric signals (electricfield generation and detection)"
+    }
+  ],
+  "Social behavior": [
+    {
+      "trait": "Solitary lifestyle"
+    },
+    {
+      "trait": "Pair bonding"
+    },
+    {
+      "trait": "Group living (fission-fusion, stable groups)"
+    },
+    {
+      "trait": "Hierarchy (dominant-subordinate relationships)"
+    },
+    {
+      "trait": "Cooperative behavior (hunting, defense, resource sharing)"
+    },
+    {
+      "trait": "Altruism (helping others at a cost to oneself)"
+    }
+  ],
+  "Mating behavior": [
+    {
+      "trait": "Monogamy (single mate)"
+    },
+    {
+      "trait": "Polygamy (multiple mates)"
+    },
+    {
+      "trait": "Polygyny (one male, multiple females)"
+    },
+    {
+      "trait": "Polyandry (one female, multiple males)"
+    },
+    {
+      "trait": "Polygynandry (multiple males and females)"
+    },
+    {
+      "trait": "Mate choice (female choice, male choice)"
+    },
+    {
+      "trait": "Sexual selection (ornaments, displays, competition)"
+    },
+    {
+      "trait": "Nuptial gifts (food or other resources provided to mates)"
+    },
+    {
+      "trait": "Mating rituals (courtship dances, displays)"
+    }
+  ],
+  "Parental care": [
+    {
+      "trait": "No parental care"
+    },
+    {
+      "trait": "Uniparental care (one parent provides care)"
+    },
+    {
+      "trait": "Maternal care (only the mother provides care)"
+    },
+    {
+      "trait": "Paternal care (only the father provides care)"
+    },
+    {
+      "trait": "Biparental care (both parents provide care)"
+    },
+    {
+      "trait": "Alloparental care (non-parent individuals provide care)"
+    },
+    {
+      "trait": "Nest building"
+    },
+    {
+      "trait": "Feeding offspring"
+    },
+    {
+      "trait": "Protection of offspring"
+    }
+  ],
+  "Migration": [
+    {
+      "trait": "No migration"
+    },
+    {
+      "trait": "Altitudinal migration (seasonal movement up and down mountains)"
+    },
+    {
+      "trait": "Latitudinal migration (seasonal movement towards the poles or equator)"
+    },
+    {
+      "trait": "Longitudinal migration (seasonal movement east or west)"
+    },
+    {
+      "trait": "Breeding migration (movement to specific breeding grounds)"
+    },
+    {
+      "trait": "Dispersal (movement from natal area to new area for breeding or resources)"
+    }
+  ],
+  "Metabolism": [
+    {
+      "trait": "Aerobic respiration"
+    },
+    {
+      "trait": "Anaerobic respiration"
+    },
+    {
+      "trait": "Fermentation"
+    },
+    {
+      "trait": "Glycolysis"
+    },
+    {
+      "trait": "Oxidative phosphorylation"
+    },
+    {
+      "trait": "Photosynthesis"
+    },
+    {
+      "trait": "Chemosynthesis"
+    }
+  ],
+  "Energy storage": [
+    {
+      "trait": "Fat storage"
+    },
+    {
+      "trait": "Glycogen storage"
+    },
+    {
+      "trait": "Protein storage"
+    },
+    {
+      "trait": "Carbohydrate storage"
+    }
+  ],
+  "Aging and lifespan": [
+    {
+      "trait": "Short lifespan"
+    },
+    {
+      "trait": "Intermediate lifespan"
+    },
+    {
+      "trait": "Long lifespan"
+    },
+    {
+      "trait": "Negligible senescence"
+    },
+    {
+      "trait": "Telomere maintenance"
+    },
+    {
+      "trait": "DNA repair mechanisms"
+    }
+  ],
+  "Regeneration": [
+    {
+      "trait": "Limited regeneration (wound healing)"
+    },
+    {
+      "trait": "Tissue regeneration"
+    },
+    {
+      "trait": "Organ regeneration"
+    },
+    {
+      "trait": "Limb regeneration"
+    },
+    {
+      "trait": "Whole-body regeneration"
+    }
+  ],
+  "Symbiosis": [
+    {
+      "trait": "Mutualism"
+    },
+    {
+      "trait": "Commensalism"
+    },
+    {
+      "trait": "Parasitism"
+    },
+    {
+      "trait": "Endosymbiosis"
+    },
+    {
+      "trait": "Ectosymbiosis"
+    },
+    {
+      "trait": "Facultative symbiosis"
+    },
+    {
+      "trait": "Obligate symbiosis"
+    }
+  ],
+  "Stress response": [
+    {
+      "trait": "Heat-shock proteins"
+    },
+    {
+      "trait": "Cold-shock proteins"
+    },
+    {
+      "trait": "Osmotic stress response"
+    },
+    {
+      "trait": "Oxidative stress response"
+    },
+    {
+      "trait": "Hypoxia response"
+    },
+    {
+      "trait": "DNA damage response"
+    }
+  ],
+  "Diapause (developmental arrest)": [
+    {
+      "trait": "Egg diapause"
+    },
+    {
+      "trait": "Larval diapause"
+    },
+    {
+      "trait": "Pupal diapause"
+    },
+    {
+      "trait": "Adult diapause"
+    },
+    {
+      "trait": "Quiescence"
+    },
+    {
+      "trait": "Hibernation"
+    }
+  ]
+}
