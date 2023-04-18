@@ -1,0 +1,66 @@
+{
+  "traits": {
+    "Locomotion": {
+      "name": "Swimming",
+      "fitnessScore": 80
+    },
+    "Respiration": {
+      "name": "Gills",
+      "fitnessScore": 85
+    },
+    "Nutrition": {
+      "name": "Filter feeder",
+      "fitnessScore": 75
+    },
+    "Reproduction": {
+      "name": "Oviparous (egg-laying)",
+      "fitnessScore": 65
+    },
+    "Sensory": [
+      {
+        "name": "Electroreception",
+        "fitnessScore": 70
+      },
+      {
+        "name": "Vision",
+        "fitnessScore": 60
+      }
+    ],
+    "Defense": {
+      "name": "Toxins (venom, poison)",
+      "fitnessScore": 80
+    },
+    "Thermoregulation": {
+      "name": "Ectothermy (cold-blooded)",
+      "fitnessScore": 50
+    },
+    "Digestion": {
+      "name": "Complete digestive system (mouth to anus)",
+      "fitnessScore": 80
+    },
+    "Pigmentation": {
+      "name": "Chromatophores (color-changing cells)",
+      "fitnessScore": 85
+    },
+    "Communication": {
+      "name": "Acoustic signals (calls, songs)",
+      "fitnessScore": 60
+    },
+    "Migration": {
+      "name": "Latitudinal migration (seasonal movement towards the poles or equator)",
+      "fitnessScore": 60
+    },
+    "Metabolism": {
+      "name": "Aerobic respiration",
+      "fitnessScore": 90
+    },
+    "Regeneration": {
+      "name": "Limited regeneration (wound healing)",
+      "fitnessScore": 50
+    },
+    "Symbiosis": {
+      "name": "Mutualism",
+      "fitnessScore": 75
+    }
+  }
+}

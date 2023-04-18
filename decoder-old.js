@@ -1,22 +1,13 @@
-// decoder.js
 const fs = require('fs');
-const path = require('path');
 const traitDB = require('./traitDB.json');
 
-function decodeOHCFile(ohcFilePath, outputFilePath = null) {
-  fs.readFile(ohcFilePath, 'utf-8', (err, encodedString) => {
-    if (err) {
-      console.error(`Error reading the ${ohcFilePath} file:`, err);
-      return;
-    }
+fs.readFile('ohcObject.ohc', 'utf-8', (err, encodedString) => {
+  if (err) {
+    console.error('Error reading the ohcObject.ohc file:', err);
+    return;
+  }
 
-    // Generate output file path if not provided
-    if (!outputFilePath) {
-      const inputFileName = path.basename(ohcFilePath, path.extname(ohcFilePath));
-      outputFilePath = path.join(path.dirname(ohcFilePath), `${inputFileName}_decoded.json`);
-    }
-
-      // Separate the strands using the provided logic
+  // Separate the strands using the provided logic
   const strands = [];
   const ohcPattern = /JXJ((?:[A-G\d]{2})+)(?=XJX(\d+)(T)?([A-G\d]+)?)/g
   let match;
@@ -54,6 +45,7 @@ function decodeOHCFile(ohcFilePath, outputFilePath = null) {
     });
   }
 
+  console.log(strands);
   function base6ToBase10(base6Number) {
     let base10Number = 0;
     let placeValue = 1;
@@ -64,6 +56,28 @@ function decodeOHCFile(ohcFilePath, outputFilePath = null) {
     }
 
     return base10Number;
+  }
+
+  function addTraitToPathway(pathwayObj, trait) {
+    if (!pathwayObj) {
+      pathwayObj = [];
+    }
+
+    if (Array.isArray(trait)) {
+      for (const t of trait) {
+        pathwayObj.push({
+          name: t.name,
+          fitnessScore: t.fitnessScore,
+        });
+      }
+    } else {
+      pathwayObj.push({
+        name: trait.name,
+        fitnessScore: trait.fitnessScore,
+      });
+    }
+
+    return pathwayObj;
   }
 
   const organismData = {
@@ -105,15 +119,12 @@ function decodeOHCFile(ohcFilePath, outputFilePath = null) {
       }
     }
   }
-
-    fs.writeFile(outputFilePath, JSON.stringify(organismData, null, 2), (err) => {
-      if (err) {
-        console.error(`Error writing to ${outputFilePath}:`, err);
-        return;
-      }
-      console.log(`Organism data successfully saved to ${outputFilePath}`);
+    
+    fs.writeFile('decodedOHC.json', JSON.stringify(organismData, null, 2), (err) => {
+    if (err) {
+    console.error('Error writing to decodedOHC.json:', err);
+    return;
+    }
+    console.log('Organism data successfully saved to decodedOHC.json');
     });
-  });
-}
-
-module.exports = decodeOHCFile;
+    });
