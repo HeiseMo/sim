@@ -45,7 +45,6 @@ fs.readFile('ohcObject.ohc', 'utf-8', (err, encodedString) => {
     });
   }
 
-  console.log(strands);
   function base6ToBase10(base6Number) {
     let base10Number = 0;
     let placeValue = 1;
